@@ -1,0 +1,2 @@
+# BASES
+sqldeveloper
